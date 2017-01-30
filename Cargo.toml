@@ -1,0 +1,6 @@
+[package]
+name = "jig-20-gui-3d"
+version = "0.1.0"
+authors = ["Sean Cross <sean@xobs.io>"]
+
+[dependencies]
